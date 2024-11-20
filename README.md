@@ -1,0 +1,1 @@
+[![Build status](https://build.appcenter.ms/v0.1/apps/cefe148f-40f4-4fc7-9ad5-4b5b74e9e95a/branches/main/badge)](https://appcenter.ms)
